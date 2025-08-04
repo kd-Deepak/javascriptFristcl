@@ -1,2 +1,0 @@
-# javascriptFristcl
-Start learn javascript.
